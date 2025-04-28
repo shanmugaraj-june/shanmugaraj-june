@@ -4,7 +4,7 @@
 💡 I’m passionate about technology, electronics, and coding.
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](https://portpoliooo.ccbp.tech)                                                 
-- 🌱 I’m currently learning and Teaching DSA and Integrating AI to my workflow
+- 🌱 I’m currently learning and  Integrating AI to my workflow
 - 🛠️ Building small **Fullstack Projects** to sharpen my skills.
 - 🚀 Always excited to learn new technologies and build creative solutions.
 - ⚡ 📫 How to reach me: **shanmugaraj4696@gmail.com**
