@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning and  Integrating AI to my workflow
 - 🛠️ Building small **Fullstack Projects** to sharpen my skills.
 - 🚀 Always excited to learn new technologies and build creative solutions.
-- ⚡ 📫 How to reach me: **shanmugaraj4696@gmail.com**
+- ⚡ 📫 How to reach me: **shanmugaraj4002@gmail.com**
 - Social Presence
 <br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](http://linkedin.com/in/shanmuga-raj-825162242) <br/>
 
