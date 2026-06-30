@@ -13,10 +13,19 @@ Just a dev trying to make sense of the chaos, break the internet (on purpose), b
 
 ## 📊 GitHub Analytics
 
+## ⚡ Developer Journey
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shanmugaraj&layout=compact&theme=dark" height="130" />
-  <img src="https://streak-stats.demolab.com?user=shanmugaraj&theme=dark" height="130" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shanmugaraj-june&layout=compact&theme=dark" height="140"/>
+
+<img src="https://streak-stats.demolab.com?user=shanmugaraj-june&theme=dark" height="140"/>
+
 </div>
+
+<p align="center">
+Building scalable web applications, solving algorithmic challenges, and learning system design—one commit at a time.
+</p>
 <br><br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00F700&width=700&lines=%3E+Clean+Code.;%3E+Scalable+Systems.;%3E+Continuous+Learning.;%3E+Let's+Build+Something+Amazing.)](https://git.io/typing-svg)
