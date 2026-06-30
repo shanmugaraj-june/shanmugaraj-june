@@ -72,21 +72,20 @@ Full-Stack MERN Developer • Problem Solver • Software Engineer
 
 # 📊 GitHub Analytics
 
-<p align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shanmugaraj-june&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shanmugaraj-june&theme=tokyo-night&hide_border=true"/>
-</p>
-
-</p>
 
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=shanmugaraj-june&theme=github-dark&hide_border=true"/>
+
+</p> 
+<p align="center">
+
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shanmugaraj-june&theme=tokyo-night&hide_border=true"/>
+</p>
 
 </p>
 
