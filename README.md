@@ -74,8 +74,13 @@ Full-Stack MERN Developer • Problem Solver • Software Engineer
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shanmugaraj-june&show_icons=true&theme=tokyonight" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanmugaraj-june&layout=compact&theme=tokyonight" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shanmugaraj-june&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shanmugaraj-june&theme=tokyo-night&hide_border=true"/>
+</p>
 
 </p>
 
