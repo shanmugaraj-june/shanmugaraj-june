@@ -17,7 +17,7 @@ Just a dev trying to make sense of the chaos, break the internet (on purpose), b
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shanmugaraj-june&layout=compact&theme=dark" height="140"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanmugaraj-june&layout=compact&theme=github_dark&hide_border=true" height="140" />
 
 <img src="https://streak-stats.demolab.com?user=shanmugaraj-june&theme=dark" height="140"/>
 
