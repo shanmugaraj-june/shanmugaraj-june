@@ -119,7 +119,7 @@ Real-time GPS-based college transport tracking system.
 
 # 🏆 Coding Journey
 
-- ✅ 40+ LeetCode Problems Solved
+- ✅ 100+ LeetCode Problems Solved
 - 📈 Daily DSA Practice
 - 🧠 Learning System Design
 - 💡 Always improving problem-solving skills
@@ -130,15 +130,15 @@ Real-time GPS-based college transport tracking system.
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/shanmugaraj-825162242/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://portfolio-ashen-nu-35.vercel.app/">
 <img src="https://skillicons.dev/icons?i=vercel"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:shanmugaraj4002@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
