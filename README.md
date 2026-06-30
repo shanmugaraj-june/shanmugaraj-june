@@ -1,28 +1,21 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1AF700&width=435&lines=Hey+I'm+Megh;I+break+things+on+the+web)](https://git.io/typing-svg)
 
-## Hi there 👋 It's me shanmugaraj
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=megh-bari.megh-bari&rstyle=plastic&left_text=Profile%20Views%20:"  />
+</div>
 
-💡 I’m passionate about technology, electronics, and coding.
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio](https://portfolio-ashen-nu-35.vercel.app/)                                                 
-- 🌱 I’m currently learning and  Integrating AI to my workflow
-- 🛠️ Building small **Fullstack Projects** to sharpen my skills.
-- 🚀 Always excited to learn new technologies and build creative solutions.
-- ⚡ 📫 How to reach me: **shanmugaraj4002@gmail.com**
-- Social Presence
-<br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shanmugaraj-825162242/) <br/>
+## About
 
-### I code in
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="30"/> JavaScript &nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" width="30"/> React.js &nbsp;&nbsp;
-  <img src="https://img.icons8.com/fluency/48/000000/node-js.png" width="30"/> Node.js &nbsp;&nbsp;
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" width="30"/> MongoDB &nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="30"/> C++ &nbsp;&nbsp;
-  <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-algorithm-coding-and-development-flat-flat-juicy-fish.png" width="30"/> DSA
+<p style="font-size:16px;">
+Just a dev trying to make sense of the chaos, break the internet (on purpose), build stuff that doesn’t crash (mostly), and occasionally pretend I know what I'm doing.
 </p>
 
+## My Progress
 
+<div align="center" style="margin-bottom: 30px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=megh-bari&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2" height="130" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=megh-bari&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=12&order=3" height="130" alt="streak graph"  />
+</div>
+<br><br>
 
-
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/4lFPvt539w?theme=dark&font=ZCOOL%20XiaoWei&ext=heatmap)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00F707&width=435&lines=%3E+Building.+Breaking.+Learning.+Repeating.)](https://git.io/typing-svg)
