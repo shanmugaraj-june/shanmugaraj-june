@@ -1,31 +1,155 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F700&width=700&lines=Hi%2C+I'm+Shanmugaraj+%F0%9F%91%8B;Full-Stack+MERN+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;DSA+Enthusiast;Open+to+Software+Engineering+Roles)](https://git.io/typing-svg)
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=megh-bari.megh-bari&rstyle=plastic&left_text=Profile%20Views%20:"  />
-</div>
+<!-- ========================= HEADER ========================= -->
 
-## About
+<h1 align="center">Hi 👋, I'm Shanmugaraj</h1>
 
-<p style="font-size:16px;">
-Just a dev trying to make sense of the chaos, break the internet (on purpose), build stuff that doesn’t crash (mostly), and occasionally pretend I know what I'm doing.
-</p>
-
-## My Progress
-
-## 📊 GitHub Analytics
-
-## ⚡ Developer Journey
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanmugaraj-june&layout=compact&theme=github_dark&hide_border=true" height="140" />
-
-<img src="https://streak-stats.demolab.com?user=shanmugaraj-june&theme=dark" height="140"/>
-
-</div>
+<h3 align="center">
+Full-Stack MERN Developer • Problem Solver • Software Engineer
+</h3>
 
 <p align="center">
-Building scalable web applications, solving algorithmic challenges, and learning system design—one commit at a time.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=Full-Stack+MERN+Developer;Building+Scalable+Web+Applications;Learning+System+Design+%26+DevOps;DSA+Enthusiast;Open+to+Software+Engineering+Roles" />
 </p>
-<br><br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00F700&width=700&lines=%3E+Clean+Code.;%3E+Scalable+Systems.;%3E+Continuous+Learning.;%3E+Let's+Build+Something+Amazing.)](https://git.io/typing-svg)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+- 🎓 2025 Graduate (Electronics & Communication Engineering)
+- 💻 Full-Stack MERN Developer
+- 🌱 Currently learning **System Design**, **DevOps**, and **Advanced DSA**
+- 🚀 Passionate about building scalable web applications
+- 🎯 Looking for Software Engineer opportunities
+- ⚡ I enjoy solving coding problems and building real-world projects
+
+---
+
+# 🚀 Current Focus
+
+- 📚 Solving DSA every day
+- ⚙️ Learning High-Level System Design
+- 🌐 Building Full-Stack MERN Applications
+- ☁️ Exploring Cloud & DevOps
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,js,ts" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,html,css" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,prisma" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# ⭐ Featured Projects
+
+### 🚀 TaskFlow
+Team Task Management System with Role-Based Access Control.
+
+**Tech:** React • Node.js • Express • PostgreSQL • Prisma • JWT
+
+---
+
+### 💼 Job Application Tracker
+
+Track job applications with authentication and dashboard.
+
+**Tech:** MERN Stack
+
+---
+
+### 🏗 Vinayaga Construction Website
+
+Responsive business website built using Next.js & Tailwind CSS.
+
+---
+
+### 📍 Transport Tracking System
+
+Real-time GPS-based college transport tracking system.
+
+---
+
+# 🏆 Coding Journey
+
+- ✅ 40+ LeetCode Problems Solved
+- 📈 Daily DSA Practice
+- 🧠 Learning System Design
+- 💡 Always improving problem-solving skills
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://skillicons.dev/icons?i=vercel"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Repeat."*
+
+</p>
